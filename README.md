@@ -71,10 +71,6 @@ Tüm oturum işlemleri session ile kontrol edilmektedir.
 
 Veritabanı bağlantısı güvenli yapıdadır (mysqli + hata kontrolü).
 
-Kullanıcı girişi ve form işlemleri temel düzeyde XSS korumalıdır (htmlspecialchars()).
-
-
-
 
 
 ## Kullanım
@@ -101,8 +97,9 @@ Arayüz Bootstrap ile tasarlanmış olup sade ve kullanıcı dostudur.
 
  
 ## Bağlantılar
-Canlı Demo 
+Canlı Demo : http://95.130.171.20/~st22360859074/index.php
 
-Github Reposu (Kendi kullanıcı adınıza göre değiştirin)
 
-Tanıtım Videosu
+Github Reposu: https://github.com/Tugbacevikk/kargosistemi
+
+Tanıtım Videosu: https://www.youtube.com/watch?v=2xdLaeaQX2Q
